@@ -1,0 +1,3 @@
+[submodule "git-master"]
+	path = git-master
+	url = git@github.com:gloriading/git-master.git
